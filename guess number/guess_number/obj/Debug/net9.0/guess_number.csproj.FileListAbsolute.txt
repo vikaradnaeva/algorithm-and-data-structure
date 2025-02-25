@@ -1,0 +1,14 @@
+Y:\алгоритмы и структуры данных\guess number\guess_number\bin\Debug\net9.0\guess_number.exe
+Y:\алгоритмы и структуры данных\guess number\guess_number\bin\Debug\net9.0\guess_number.deps.json
+Y:\алгоритмы и структуры данных\guess number\guess_number\bin\Debug\net9.0\guess_number.runtimeconfig.json
+Y:\алгоритмы и структуры данных\guess number\guess_number\bin\Debug\net9.0\guess_number.dll
+Y:\алгоритмы и структуры данных\guess number\guess_number\bin\Debug\net9.0\guess_number.pdb
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.GeneratedMSBuildEditorConfig.editorconfig
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.AssemblyInfoInputs.cache
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.AssemblyInfo.cs
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.csproj.CoreCompileInputs.cache
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.dll
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\refint\guess_number.dll
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.pdb
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\guess_number.genruntimeconfig.cache
+Y:\алгоритмы и структуры данных\guess number\guess_number\obj\Debug\net9.0\ref\guess_number.dll
