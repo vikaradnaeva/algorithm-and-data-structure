@@ -1,0 +1,14 @@
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\bin\Debug\net9.0\seminar.exe
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\bin\Debug\net9.0\seminar.deps.json
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\bin\Debug\net9.0\seminar.runtimeconfig.json
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\bin\Debug\net9.0\seminar.dll
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\bin\Debug\net9.0\seminar.pdb
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.AssemblyInfoInputs.cache
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.AssemblyInfo.cs
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.csproj.CoreCompileInputs.cache
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.dll
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\refint\seminar.dll
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.pdb
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\seminar.genruntimeconfig.cache
+Y:\алгоритмы и структуры данных\guess number\seminar\seminar\obj\Debug\net9.0\ref\seminar.dll
